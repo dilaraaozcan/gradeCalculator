@@ -49,9 +49,6 @@ Aşağıda programın çalıştığında ürettiği örnek çıktı yer almaktad
 
 <img width="296" height="343" alt="Ekran Resmi 2025-12-01 19 52 40" src="https://github.com/user-attachments/assets/a19ddac3-10d4-47ec-8126-3adfdc6753ed" />
 
-
-_(Dosya adın farklıysa, buradaki `output.png` kısmını kendi yüklediğin görselin adıyla değiştir.)_
-
 ---
 
 ## 🚀 Çalıştırma
