@@ -47,7 +47,7 @@ Bu proje, kullanıcının girdiği vize (%40) ve final (%60) notlarına göre de
 
 Aşağıda programın çalıştığında ürettiği örnek çıktı yer almaktadır:
 
-![Program Çıktısı]<img width="296" height="343" alt="Ekran Resmi 2025-12-01 19 52 40" src="https://github.com/user-attachments/assets/a19ddac3-10d4-47ec-8126-3adfdc6753ed" />
+<img width="296" height="343" alt="Ekran Resmi 2025-12-01 19 52 40" src="https://github.com/user-attachments/assets/a19ddac3-10d4-47ec-8126-3adfdc6753ed" />
 
 
 _(Dosya adın farklıysa, buradaki `output.png` kısmını kendi yüklediğin görselin adıyla değiştir.)_
